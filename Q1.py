@@ -4,13 +4,13 @@
 # Defining
 a = 5
 b = 7
-print("Before: ")
+print("Before Swapping: ")
 print(f"a = {a}")
 print(f"b = {b}")
 
 # Swapping
 a = b 
 b = a - 2
-print("After: ")
+print("After Swapping: ")
 print(f"a = {a}")
 print(f"b = {b}")
