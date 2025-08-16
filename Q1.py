@@ -9,7 +9,7 @@ print(f"a = {a}")
 print(f"b = {b}")
 
 # Swapping
-a = b 
+a = b
 b = a - 2
 print("After Swapping: ")
 print(f"a = {a}")
